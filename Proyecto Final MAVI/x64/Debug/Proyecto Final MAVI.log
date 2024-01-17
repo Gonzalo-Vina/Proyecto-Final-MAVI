@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\gonza\Desktop\Proyecto Final MAVI\Proyecto Final MAVI\Brick.h(18,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gonza\Desktop\Proyecto Final MAVI\Proyecto Final MAVI\Brick.h(21,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gonza\Desktop\Proyecto Final MAVI\Proyecto Final MAVI\Brick.h(24,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gonza\Desktop\Proyecto Final MAVI\Proyecto Final MAVI\UI_Controller.h(33,33): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\gonza\Desktop\Proyecto Final MAVI\Proyecto Final MAVI\UI_Controller.h(38,30): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\gonza\Desktop\Proyecto Final MAVI\Proyecto Final MAVI\UI_Controller.h(43,36): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\gonza\Desktop\Proyecto Final MAVI\Proyecto Final MAVI\UI_Controller.h(48,30): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\gonza\Desktop\Proyecto Final MAVI\Proyecto Final MAVI\UI_Controller.h(53,29): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Proyecto Final MAVI.vcxproj -> C:\Users\gonza\Desktop\Proyecto Final MAVI\x64\Debug\Proyecto Final MAVI.exe
